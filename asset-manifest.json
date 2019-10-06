@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/search-api-in-react/static/css/main.4cfd27a5.chunk.css",
+    "main.css": "/search-api-in-react/static/css/main.f9e1fe3e.chunk.css",
     "main.js": "/search-api-in-react/static/js/main.ff2d6254.chunk.js",
     "main.js.map": "/search-api-in-react/static/js/main.ff2d6254.chunk.js.map",
     "runtime-main.js": "/search-api-in-react/static/js/runtime-main.88438ef3.js",
@@ -9,16 +9,16 @@
     "static/js/2.87b21f55.chunk.js": "/search-api-in-react/static/js/2.87b21f55.chunk.js",
     "static/js/2.87b21f55.chunk.js.map": "/search-api-in-react/static/js/2.87b21f55.chunk.js.map",
     "index.html": "/search-api-in-react/index.html",
-    "precache-manifest.4b76a7e08b0ee8d0199db76792222fd5.js": "/search-api-in-react/precache-manifest.4b76a7e08b0ee8d0199db76792222fd5.js",
+    "precache-manifest.699ab31a6ca18ac2e89434b9eb32f8d6.js": "/search-api-in-react/precache-manifest.699ab31a6ca18ac2e89434b9eb32f8d6.js",
     "service-worker.js": "/search-api-in-react/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/search-api-in-react/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.4cfd27a5.chunk.css.map": "/search-api-in-react/static/css/main.4cfd27a5.chunk.css.map"
+    "static/css/main.f9e1fe3e.chunk.css.map": "/search-api-in-react/static/css/main.f9e1fe3e.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.88438ef3.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.87b21f55.chunk.js",
-    "static/css/main.4cfd27a5.chunk.css",
+    "static/css/main.f9e1fe3e.chunk.css",
     "static/js/main.ff2d6254.chunk.js"
   ]
 }
